@@ -1,4 +1,7 @@
-''')
+-''')
+
+
+
 
 
 		chars = "abcdefghijklmnoprstuvyzqwABCDEFGHIJKLMNOPRSTUVYQW1234567890"
@@ -11,4 +14,3 @@
 					password_sayi = random.choice(chars)
 					password	= password + password_sayi
 				print("discord.gift/"+password)
-				''')
